@@ -1,6 +1,5 @@
 # hello-world
-Oh look, a hello world repository!
-
-# More comments
-
-No real information yet. 
+========================
+A bit about me:
+How have I never played around on GitHub before??
+========================
